@@ -16,4 +16,4 @@ Regression_Data.csv: data used for regresion analysis and geographical distribut
 
 Timeseries_Data.csv: data used for time-series of COVID19 outcomes (Figure 3 in the main text)
 
-R Codes are now updating to make them shorter and conciser.
+**R Codes are now updating to make them shorter and conciser.**
