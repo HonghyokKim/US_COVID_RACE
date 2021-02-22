@@ -11,5 +11,7 @@ Email: honghyok.kim@yale.edu
 Address: 195 Prospect Street, New Haven, CT, 06511, United States.
 
 **File descriptions**
+
 Regression_Data.csv: data used for regresion analysis and geographical distributions of variables (Figure 2 in the main text and S1 Figure)
+
 Timeseries_Data.csv: data used for time-series of COVID19 outcomes (Figure 3 in the main text)
