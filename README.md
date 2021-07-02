@@ -1,6 +1,6 @@
 # US_COVID_RACE
 
-This repository provides data used for time-series plots and regression analyses in 
+This repository provides data and R codes used for time-series plots and regression analyses in 
 
 **Temporal transition of racial/ethnic disparities in COVID-19 outcomes in 3108 counties of the United States: three phases from January to December, 2020. Science of The Total Environment, 148167.**
 
