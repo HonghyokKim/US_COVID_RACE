@@ -10,6 +10,7 @@ bDepartment of Environmental Health, Harvard School of Public Health, Boston, MA
 **File descriptions**
 
 Regression_Data.csv: data used for regresion analysis and geographical distributions of variables
+
 Timeseries_Data.csv: data used for time-series of COVID19 outcomes
 
 **Codes and data have been modified for public purposes, which may differ from the ones actually used for the data analysis.**
