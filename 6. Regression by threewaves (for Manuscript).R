@@ -1,8 +1,8 @@
 
 data.wave<-vector("list",3)
-data.wave[[1]]<-read.csv("C:\\Users\\hongh\\Dropbox (Yale_FES)\\COVID19\\USCOVID\\Race_COVID\\finaldat\\fin\\Wave1.csv")
-data.wave[[2]]<-read.csv("C:\\Users\\hongh\\Dropbox (Yale_FES)\\COVID19\\USCOVID\\Race_COVID\\finaldat\\fin\\Wave2.csv")
-data.wave[[3]]<-read.csv("C:\\Users\\hongh\\Dropbox (Yale_FES)\\COVID19\\USCOVID\\Race_COVID\\finaldat\\fin\\Wave3.csv")
+data.wave[[1]]<-read.csv("PATHNAME\\Wave1.csv")
+data.wave[[2]]<-read.csv("PATHNAME\\Wave2.csv")
+data.wave[[3]]<-read.csv("PATHNAME\\Wave3.csv")
 
 n_cl<-1
 
@@ -928,7 +928,7 @@ for (aa in seq(n_cl)) {
 
 
 
-jpeg("C:/Users/hongh/Dropbox (Yale_FES)/COVID19/USCOVID/Race_COVID/Manuscript/Figures/Figure3.jpg",
+jpeg("PATHNAME/Figure2.jpg",
      width=16,height=12,units="in",res=900,pointsize=17)
 par(mfrow=c(2,1),mar=c(4,4,2,1),oma=c(0,0,1,0))
 plot(seq(3),BLACK_Cases[[1]][,1],type="n",xlim=c(1.2,14.8),ylim=c(0.4,3),log="y",xaxt="n",ylab="Relative rate",xlab="Wave")
@@ -1047,10 +1047,6 @@ text(x=14,y=2.8,"Eta-squared",cex=0.9)
 
 dev.off()
 
-
-
-
-save.image("C:\\Users\\hongh\\Dropbox (Yale_FES)\\COVID19\\USCOVID\\Race_COVID\\Manuscript\\Rimages\\Cases_Deaths_RR.Rdata")
 
 
 
