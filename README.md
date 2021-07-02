@@ -2,7 +2,7 @@
 
 This repository provides data used for time-series plots and regression analyses in 
 
-**Kim, H., Zanobetti, A., & Bell, M. L. (2021). Temporal transition of racial/ethnic disparities in COVID-19 outcomes in 3108 counties of the United States: three phases from January to December, 2020. Science of The Total Environment, 148167.**
+**Temporal transition of racial/ethnic disparities in COVID-19 outcomes in 3108 counties of the United States: three phases from January to December, 2020. Science of The Total Environment, 148167.**
 Honghyok Kim (a), Antonella Zanobetti (b), Michelle L. Bell (a).
 aSchool of the Environment, Yale University, New Haven, CT, United States of America 
 bDepartment of Environmental Health, Harvard School of Public Health, Boston, MA, United States of America
