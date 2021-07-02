@@ -6,9 +6,9 @@ This repository provides data used for time-series plots and regression analyses
 
 Honghyok Kim (a), Antonella Zanobetti (b), Michelle L. Bell (a).
 
-aSchool of the Environment, Yale University, New Haven, CT, United States of America 
+(a) School of the Environment, Yale University, New Haven, CT, United States of America 
 
-bDepartment of Environmental Health, Harvard School of Public Health, Boston, MA, United States of America
+(b) Department of Environmental Health, Harvard School of Public Health, Boston, MA, United States of America
 
 **File descriptions**
 
