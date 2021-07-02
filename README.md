@@ -15,7 +15,7 @@ Address: 195 Prospect Street, New Haven, CT, 06511, United States.
 Regression_Data.csv: data used for regresion analysis and geographical distributions of variables
 Timeseries_Data.csv: data used for time-series of COVID19 outcomes
 
-**** Codes have been modified for public purposes, which may differ from the codes actually used for the data analysis. **
+**Codes have been modified for public purposes, which may differ from the codes actually used for the data analysis.**
 
 Error reporting/Questions: honghyok.kim@yale.edu
 honghyok@korea.ac.kr
